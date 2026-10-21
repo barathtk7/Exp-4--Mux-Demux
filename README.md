@@ -39,7 +39,7 @@ endmodule
 
 ## Testbench Program
 
-// gedit tb4.v
+
 module tb4;
     reg  A, B, S, D;
     wire Y;
@@ -84,7 +84,7 @@ module tb4;
  
         #10 $finish;
     end
-    endmodule
+endmodule
 
 ## Truth Table
 
@@ -150,7 +150,8 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
-<img width="611" height="321" alt="image" src="https://github.com/user-attachments/assets/498cca0d-185c-4301-8808-399e9a36c497" />
+<img width="1917" height="1020" alt="Screenshot 2026-10-21 125408" src="https://github.com/user-attachments/assets/aeb120b7-222a-4e06-8688-cdfd9616558a" />
+
 
 ## Viva-Voce Questions
 
